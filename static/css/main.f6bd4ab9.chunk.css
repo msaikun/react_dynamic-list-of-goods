@@ -1,0 +1,2 @@
+body{background-color:#fafafa}.container{display:flex;flex-direction:column;align-items:center}.container__title{text-transform:uppercase}.container__button{height:35px;width:150px;padding:5px;margin:10px 20px;background-color:#718663;transition:all .3s}.container__button:hover{-webkit-transform:scale(1.2);transform:scale(1.2);font-weight:700;background-color:#649760;cursor:pointer}.Goods__item{padding:5px}
+/*# sourceMappingURL=main.f6bd4ab9.chunk.css.map */
